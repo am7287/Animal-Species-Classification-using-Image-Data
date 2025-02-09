@@ -1,5 +1,6 @@
 # ML Project : Animal Classification Using Machine Learning Models
-This project was developed as part of the Machine Learning course under the guidance of Dr. Anitha. Our objective was to explore various machine learning models to classify different types of animals using a labeled dataset. We applied multiple models from our coursework and evaluated their prediction accuracies, comparing the results to identify the best-performing model.
+This project was developed as part of the Machine Learning course under the guidance of Dr. Anitha K.        
+Our objective was to explore various machine learning models to classify different types of animals using a labeled dataset. We applied multiple models from our coursework and evaluated their prediction accuracies, comparing the results to identify the best-performing model.
 
 ## Project Overview<br>
 **Dataset**: A labeled dataset with various animal types.<br>
