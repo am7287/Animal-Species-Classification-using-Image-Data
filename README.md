@@ -6,9 +6,6 @@ Our objective was to explore various machine learning models to classify differe
 **Dataset**: A labeled dataset with various animal types.<br>
 **Goal**: Experiment with multiple machine learning models to determine which model performs best for this classification task.<br>
 **Evaluation**: Each model's prediction accuracy was measured and compared.<br>
-**Project Link**
-If you encounter issues with previewing the project, you can view it on Google Colab: <br>
-https://colab.research.google.com/drive/1pCjvGx4Bb80lt7P0nVZxHhsHNDkZpsP6?usp=sharing#scrollTo=qVoaiBqT8V7p<br>
 
 ## Contributors:<br>
 Trisha Dutta - RA2211003011050 <br>
