@@ -8,7 +8,7 @@ Our objective was to explore various machine learning models to classify differe
 **Evaluation**: Each model's prediction accuracy was measured and compared.<br>
 
 ## Contributors:<br>
-Trisha Dutta - RA2211003011050 <br>
+Trisha Datta - RA2211003011050 <br>
 Dev Aditya Singh - RA2211003011053 <br>
 Abhishek Mandal - RA2211003011056 <br>
 Vishv Patel - RA2211003011063 <br>
